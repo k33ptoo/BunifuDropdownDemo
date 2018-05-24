@@ -11,9 +11,9 @@ Collections - **ILists**
 
   
 
-![Example](https://github.com/k33ptoo/BunifuDropdownDemo/blob/master/res/imgs/img1.png)
+![Example](https://github.com/k33ptoo/BunifuDropdownDemo/blob/master/res/imgs/img1.PNG) ![Example](https://github.com/k33ptoo/BunifuDropdownDemo/blob/master/res/imgs/img2.PNG)
 
-![Example](https://github.com/k33ptoo/BunifuDropdownDemo/blob/master/res/imgs/img2.png)
+
 
   
 
@@ -29,13 +29,8 @@ Note : Make sure you add these libraries before testing this app
 
 **Others**
 
-If you would wish to try fetching the data from the db make sure you setup local server and add the db attached
+If you would wish to try fetching the data from the db make sure you setup local server and create or add this 
+[database]( https://github.com/k33ptoo/BunifuDropdownDemo/blob/master/res/db/bunifu_tests.sql)
 
-  
-
-**Db**
-
-![DB](https://github.com/k33ptoo/BunifuDropdownDemo/blob/master/res/db/bunifu_tests.sql)
-
-  
-Buy or try [Bunifu Framework](https://bunifuframework.com/) Today
+ 
+Buy or try [Bunifu Framework](https://bunifuframework.com/) Today 
